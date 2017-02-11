@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7c00849a4730bda0d015678311e764eb9c4f2cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8849b9cd99f88f358248b87cf6ea5e8112df32dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_39e594ef97c68ce4d2a2bde14c9b3d44fa9d0e17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e00a423c0b4e2a51c4695519a69ef9095336f330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e980df1eeb712f2d4526418c4a5b8ad5021bce19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_ca98405199d221bb1c704f1e953825f219f5c40f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e3af03f59bd1a94217de95c216572d147a8e8d69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ff489311ea2d5c2a52078a8ca6ebdcf773cc0c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2f8bf890752f5c3b1442e62dbf8b13d2f85782d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9596e681a54eaf8c9b49fcb97942684a75a932b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e9ac1a0fb07124e82c13100e3e979eb2df20ebb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29bfe89503156ab73812a934e3d4c6e65508538">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ac265a2cf8f7c0dd5c8219045b4ac4738f67a472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_6b3b828a3a6689205facb071859e09c3d6db52ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7300e53d13f56e2134c62039a6b0ba8f2bdb02af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_cdd5ac5db860055d9340c7103237f5b1f3a5fd21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_04dd65253065cf0845c4968222bee543ae2e3fd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9093270b05cf0a51926585440fa6621b1a0fb319">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4167f61f19bf103713d5ee8d52895f5358efeeac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\GIF-Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a811ccee27b8a517b5d01f3cfe8b1624b33b0f90\classes.dex" />
+    </item>
+
+</items>
